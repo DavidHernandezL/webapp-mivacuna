@@ -1,0 +1,15 @@
+<footer>
+    {{#if profile}}
+        {{#if registro}}
+        <div class="footer">
+            <label>¿No tienes cuenta?</label>
+            <a href="/registro">Registrarse</a>
+        </div>
+        {{else}}
+            <div class="footer">
+                <label>¿Ya tienes cuenta?</label>
+                <a href="/">Iniciar Sesión</a>
+            </div>
+        {{/if}}
+    {{/if}}
+ </footer>
