@@ -58,3 +58,12 @@ npm start
 Esto iniciará el servidor web del proyecto y lo escuchará en el puerto 4000. Puedes acceder al proyecto en la siguiente dirección:
 
 http://localhost:4000
+
+### 5. Imagenes del proyecto
+|Login                               | Register                               |
+|-----------------------------------------|-----------------------------------------|
+| ![Login](https://github.com/DavidHernandezL/webapp-mivacuna/assets/71534630/a3442383-d942-49d4-a37d-9f7c0f1c1ef8) | ![Register](https://github.com/DavidHernandezL/webapp-mivacuna/assets/71534630/686eb451-6b77-4dab-815b-5bb28ebcb434)
+
+|User                             |
+|-----------------------------------------|
+![User](https://github.com/DavidHernandezL/webapp-mivacuna/assets/71534630/0bd09abf-a285-4255-ab00-da5caa28adfc)
