@@ -31,39 +31,26 @@ Node.js es un entorno de ejecución de JavaScript en el lado del servidor. Para 
 
 Una vez que hayas instalado Node.js, puedes clonar el repositorio del proyecto desde GitHub. Para ello, abre una terminal y ejecuta el siguiente comando:
 
-`git clone https://github.com/[usuario]/[proyecto].git`
+~~~
+  git clone https://github.com/DavidHernandezL/webapp-mivacuna.git
+~~~
+
 3. Instalar las dependencias
 
 El proyecto puede requerir la instalación de dependencias. Para instalar las dependencias, abre una terminal en el directorio del proyecto y ejecuta el siguiente comando:
 
-`npm install`
+~~~
+  npm install
+~~~
+
 4. Ejecutar el proyecto
 
 Para ejecutar el proyecto, abre una terminal en el directorio del proyecto y ejecuta el siguiente comando:
 
+~~~
 npm start
-Esto iniciará el servidor web del proyecto y lo escuchará en el puerto 3000. Puedes acceder al proyecto en la siguiente dirección:
+~~~
 
-http://localhost:3000
-Opciones adicionales
+Esto iniciará el servidor web del proyecto y lo escuchará en el puerto 4000. Puedes acceder al proyecto en la siguiente dirección:
 
-Para ejecutar el proyecto en un puerto diferente, puedes especificar el puerto como un argumento del comando npm start:
-npm start --port 8080
-Para ejecutar el proyecto en modo de desarrollo, puedes utilizar el comando npm run dev:
-npm run dev
-Este comando iniciará el servidor web del proyecto en el puerto 3000 y activará el modo de desarrollo, que proporciona características como la recarga automática de código.
-
-Ejemplo
-
-Supongamos que tienes un proyecto de Node.js llamado "my-project". Para ejecutar este proyecto, seguirías los siguientes pasos:
-
-Instala Node.js.
-Clona el repositorio del proyecto:
-git clone https://github.com/[usuario]/my-project.git
-Instala las dependencias:
-npm install
-Ejecuta el proyecto:
-npm start
-Esto iniciará el servidor web del proyecto y lo escuchará en el puerto 3000. Puedes acceder al proyecto en la siguiente dirección:
-
-http://localhost:3000
+http://localhost:4000
